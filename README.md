@@ -1,5 +1,5 @@
 
-# Proyecto P#1 | Análisis y diseño de sistemas.
+# Proyecto P#2 | Análisis y diseño de sistemas.
 
 
 Manuel Antonio Jiménez Victor,
